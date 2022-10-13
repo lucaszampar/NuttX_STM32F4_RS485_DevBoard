@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Library")(type "KiCad")(uri "E:/Placa_Desenvolvimento_NuttX/Lib/Library.pretty")(options "")(descr ""))
+)
