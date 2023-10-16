@@ -16,7 +16,14 @@ This is the first release of a development board using the STM32F401RCT6 as the 
 - SWD Pins for use as STLink (Pin header) and TC2030-IDC 6-Pin Tag-Connect Plug-of-Nails™ Connector ([More Info](https://www.tag-connect.com/product/tc2030-idc-6-pin-tag-connect-plug-of-nails-spring-pin-cable-with-legs))
 - Crystal for HS 8MHz
 - Crystal for RTC 32.768KHz
+- STL Case available
+
 
 ### 3D Board Render
 ![3D Board Render](https://github.com/lucaszampar/NuttX_STM32F4_RS485_DevBoard/blob/main/IMAGES/IMG%203D%20-%20TOP.png)
 
+
+### Case
+![Printed case with board](https://github.com/lucaszampar/NuttX_STM32F4_RS485_DevBoard/blob/main/CASE/Images/IMG_5063.jpg)
+
+![Printed case without board](https://github.com/lucaszampar/NuttX_STM32F4_RS485_DevBoard/blob/main/CASE/Images/IMG_5064.jpg)
